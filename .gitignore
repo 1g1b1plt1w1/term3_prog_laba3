@@ -1,0 +1,11 @@
+build/
+report/
+coverage/
+golang/cover.html
+golang/cover.out
+linked_test.txt
+linked_test_binary.txt
+stack_test.txt
+stack_test.bin
+*.gcda
+*.gcno
